@@ -1,2 +1,3 @@
-Faith Lutheran Church
-A Church website built in Joomla!
+#Faith Lutheran Church
+##Plano, Texas
+###A Church website built in Joomla!
